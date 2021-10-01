@@ -1,4 +1,8 @@
 # Goal : Machine Learning Engineer
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://ikohong88-coding.tistory.com/)
+	
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/%EC%9A%B0%EC%84%9D-%ED%99%8D-ab9b4a221/)
 <!--
 **ikohong88/ikohong88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
